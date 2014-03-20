@@ -1,0 +1,68 @@
+body{     
+	font-family:Arial, Helvetica, "Liberation Sans", FreeSans, sans-serif;
+    font-size: 16px; 
+}
+a{
+    text-decoration: none;
+	outline:none;
+}
+a:link {
+    color: #000000;
+}
+a:visited {
+    color: #000000;
+}
+a:hover, a:focus, a:active {
+    color: #000000;
+}
+em{
+	font-style: normal;
+}
+strong{
+	font-weight: inherit;
+}
+
+#container{
+	width:1000px;	
+	padding:0px;
+	margin:0px;
+	margin-left:auto;
+	margin-right:auto;	
+}
+#header{	
+	
+}
+#footer{
+	
+}
+.rouge{
+	color:#ff0000;
+}
+
+.pink{
+	color:#eb0089;
+}
+
+.blue{
+	color:#00adef;
+}
+
+.white{
+	color:#ffffff;
+}
+
+.black{
+	color:#000000;
+}
+
+.bold{	
+	font-weight:bold;
+}
+
+.grey{
+	color:#7f7f7f;
+}
+
+.grey-light{
+	color:#b2b2b2;
+}
